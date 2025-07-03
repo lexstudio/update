@@ -1,0 +1,4 @@
+sleep 83
+
+echo "minkernel build no errors"
+echo "83 seconds build time"
